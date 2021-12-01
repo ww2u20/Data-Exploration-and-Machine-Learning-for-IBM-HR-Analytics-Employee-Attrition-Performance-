@@ -1,0 +1,2 @@
+# Data-Exploration-and-Machine-Learning-for-IBM-HR-Analytics-Employee-Attrition-Performance-
+•Studied this project with the same dataset when doing bachelors and masters.•Analyzed IBM employee attrition data and performance, combined some traditional machine learning methods tomodel the problem as a classification task, discussed the influencing factors of employee turnover, and madereasonable suggestions for the company to retain employees.
